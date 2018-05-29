@@ -1,0 +1,2 @@
+# WebCharacterDiagnosis
+キャラ診断
